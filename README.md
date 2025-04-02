@@ -1,9 +1,6 @@
-# Content-FIle-Search-Engine
+# SearchX
 Searches terms in file content, allows multiple terms to searched
 
-# SearchX
-
-![Project Logo](path/to/logo.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
