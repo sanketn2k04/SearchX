@@ -84,7 +84,7 @@ We welcome contributions from the community! To contribute to this project, foll
 7. **Create a Pull Request**: Submit your changes for review.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/sanketn2k04/SearchX/edit/main/LICENSE.md) file for details.
 
 ## Contact
 For any questions or feedback, please contact us at:
